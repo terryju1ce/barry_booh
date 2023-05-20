@@ -1,0 +1,35 @@
+[33mcommit 847634a88612d47807d110969d943690379d4de9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Your NameSerge <you@example.com>
+Date:   Sat May 20 21:45:58 2023 +0500
+
+    A file is modification
+
+[33mcommit 6214704f47548fce17d2e6e95dcc225f8a51d661[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Your NameSerge <you@example.com>
+Date:   Tue May 16 23:42:41 2023 +0500
+
+    A file has been removed
+
+[33mcommit 4676b25c8eca3da33d68237c10fc28640dfc93e8[m
+Author: Your NameSerge <you@example.com>
+Date:   Tue May 16 23:30:07 2023 +0500
+
+    A new file is added
+
+[33mcommit 4b4006f18c340b2f70c01a29a83347de5fdfa837[m
+Author: Your NameSerge <you@example.com>
+Date:   Tue May 16 23:26:40 2023 +0500
+
+    A new file is added
+
+[33mcommit 2c3ad3f149ef3013c77404ce174e86b5821b5760[m
+Author: Your NameSerge <you@example.com>
+Date:   Tue May 16 23:00:28 2023 +0500
+
+    A new file is added
+
+[33mcommit 052e3fe8fee149a8d653f2ceb63b2f55776cfffb[m
+Author: terryju1ce <133576117+terryju1ce@users.noreply.github.com>
+Date:   Mon May 15 00:19:40 2023 +0500
+
+    Initial commit
